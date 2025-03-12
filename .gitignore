@@ -4,9 +4,8 @@ target/
 !**/src/test/**/target/
 
 .mvn/
-mvnw
 mvnw.cmd
-
+mvnw
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -21,6 +20,7 @@ mvnw.cmd
 .classpath
 .factorypath
 .project
+
 .settings
 .springBeans
 .sts4-cache
